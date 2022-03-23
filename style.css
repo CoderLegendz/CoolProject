@@ -22,3 +22,8 @@ body{
     height: 402px;
         
 }
+
+#new2{
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(19,0,255,1) 100%);
+    padding-top:20px;
+}
